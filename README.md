@@ -1,4 +1,8 @@
+# Set up the Task Tracker Tutorial Backend with Realm
+
 # Get Started
+
+https://docs.mongodb.com/realm/tutorial/realm-app/
 
 ## 1. Install `mongodb-realm-cli`
 
@@ -40,6 +44,22 @@ If logged in successfully, you can now import the app:
 ```bash
 cd realm-tutorial-backend
 realm-cli push
+```
+
+Output
+```java
+? Do you wish to create a new app? Yes
+? App Name 
+? App Location US-VA
+? App Deployment Model GLOBAL
+? App Environment production
+Determining changes
+? Please confirm the changes shown above Yes
+Creating draft
+Pushing changes
+Deploying draft
+Deployment complete
+Successfully pushed app up: tasktracker-gxvan
 ```
 
 Follow the prompts and wait for the app to deploy.
