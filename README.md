@@ -6,6 +6,8 @@ https://tasktracker-aubpu.mongodbstitch.com/
 
 https://docs.mongodb.com/realm/tutorial/realm-app/
 
+Do build
+
 ## 1. Install `mongodb-realm-cli`
 
 You can import the ready-made MongoDB Realm backend using the
