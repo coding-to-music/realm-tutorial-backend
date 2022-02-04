@@ -1,6 +1,6 @@
 {
+    "app_id": "tasktracker-aubpu",
     "config_version": 20210101,
-    "app_id": "tasktracker-gxvan",
     "name": "tasktracker",
     "location": "US-VA",
     "deployment_model": "GLOBAL",
